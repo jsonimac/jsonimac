@@ -144,7 +144,7 @@
 <hr>
 
 <h3 align="center"><img src="https://img.icons8.com/?size=512&id=8uRMRaIgShyZ&format=png" alt="skills" height="30" width="30"> Connect with me <img src="https://img.icons8.com/?size=512&id=S68cG9PHd5m3&format=png" alt="sword" height="30" width="30"></h3>
-<table>
+<table align=center>
   <tbody>
     <tr>
       <td>
