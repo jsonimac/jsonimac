@@ -38,8 +38,9 @@
       </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
         <a href="">
-          <img src="https://seeklogo.com/images/P/PHP-logo-0B2FDC4529-seeklogo.com.png" height="50" alt="Php" />
+          <img src="https://seeklogo.com/images/P/PHP-logo-0B2FDC4529-seeklogo.com.png" height="50" width="40"alt="Php" />
         </a>
+        </br>
         <span>PHP</span>
       </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
