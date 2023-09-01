@@ -94,6 +94,38 @@
       </td>
   </tbody>
 </table>
+<table>
+  <tbody>
+    <td align="center" style="padding: 13px 3px 8px 3px;">
+        <a href="">
+          <img src="https://seeklogo.com/images/G/github-logo-9BBCA663A4-seeklogo.com.png" height="50" alt="Php" />
+        </a>
+        </br>
+        <span>Github</span>
+      </td>
+      <td align="center" style="padding: 13px 3px 8px 3px;">
+        <a href="#" target="_blank">
+          <img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height="50"  alt="mysql"/>
+        </a>
+        </br>
+        <span>VSCode</span>
+      </td>    
+      <td align="center" style="padding: 13px 3px 8px 3px;">
+        <a href="#" target="_blank">
+          <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" height="50"  alt="larave"/>
+        </a>
+        </br>
+        <span>Postman</span>
+      </td>
+      <td align="center" style="padding: 13px 3px 8px 3px;">
+        <a href="#" target="_blank">
+          <img src="https://media.licdn.com/dms/image/C4E0BAQFUBAaVjvcr9g/company-logo_200_200/0/1617975990206?e=1701907200&v=beta&t=cWZX64h66vL74-n4MTiKuwd4uzIlbMxeTJVxmrINkRE" height="50"  alt="larave"/>
+        </a>
+        </br>
+        <span>Thunder Client</span>
+      </td>
+  </tbody>
+</table>
 
 
 
