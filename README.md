@@ -87,7 +87,7 @@
       </td>    
       <td align="center" style="padding: 13px 3px 8px 3px;">
         <a href="https://laravel.com" target="_blank">
-          <img src="https://seeklogo.com/images/L/laravel-framework-logo-C10176EC8C-seeklogo.com.png" height="50"  alt="larave"/>
+          <img src="https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png" height="50"  alt="larave"/>
         </a>
         </br>
         <span>Laravel</span>
