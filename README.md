@@ -16,7 +16,6 @@
 
 <h4 align="left"><img src="https://img.icons8.com/?size=512&id=sbdJ1sR9bNZ7&format=png" height="30" width="30" alt="lang"> Languages and Frameworks <img src="https://img.icons8.com/?size=512&id=LPEROFD0vOCt&format=png" height="30" width="30" alt="frame"></h4>
 
-<p>FRONT-END</p>
 <table>
   <tbody>
     <tr>
@@ -53,12 +52,16 @@
         </br>
         <span>VueJS</span>
       </td>
+      <td align="center" style="padding: 13px 3px 8px 3px;">
+        <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript" target="_blank">
+          <img src="https://seeklogo.com/images/V/vuetify-logo-CC59D65FD3-seeklogo.com.png" height="50"  alt="vuejs"/>
+        </a> 
+        </br>
+        <span>Vuetify</span>
+      </td>
     </tr>
   </tbody>
 </table>
-
-</br>
-<p>BACK-END</p>
 <table>
   <tbody>
     <td align="center" style="padding: 13px 3px 8px 3px;">
