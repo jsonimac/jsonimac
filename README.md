@@ -20,12 +20,12 @@
   <tbody>
     <tr>
       <td align="center" style="padding: 10px">
-        <img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" height="40" width="40" alt="html">
+        <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" height="40" width="40" alt="html">
         <br>
         <span>HTML</span>
       </td>
       <td align="center" style="padding: 10px">
-        <img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" height="40" width="40" alt="html">
+        <img src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" height="40" width="40" alt="html">
         <br>
         <span>CSS</span>
       </td>
