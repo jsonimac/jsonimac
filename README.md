@@ -21,7 +21,7 @@
   <tbody>
     <tr>
       <td align="center" style="padding: 10px">
-        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="30" width="30" alt="html">
+        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="40" width="40" alt="html">
         <br>
         <span>HTML</span>
       </td>
