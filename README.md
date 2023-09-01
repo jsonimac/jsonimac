@@ -39,20 +39,6 @@
         <span>Javascript</span>
       </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="">
-          <img src="https://seeklogo.com/images/P/PHP-logo-0B2FDC4529-seeklogo.com.png" height="50" alt="Php" />
-        </a>
-        </br>
-        <span>PHP</span>
-      </td>
-      <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="#" target="_blank">
-          <img src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png" height="50"  alt="mysql"/>
-        </a>
-        </br>
-        <span>MySQL</span>
-      </td>
-      <td align="center" style="padding: 13px 3px 8px 3px;">
         <a href="#" target="_blank">
           <img src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" height="50"  alt="boots"/>
         </a>
@@ -67,11 +53,25 @@
         <span>VueJS</span>
       </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
+        <a href="">
+          <img src="https://seeklogo.com/images/P/PHP-logo-0B2FDC4529-seeklogo.com.png" height="50" alt="Php" />
+        </a>
+        </br>
+        <span>PHP</span>
+      </td>
+      <td align="center" style="padding: 13px 3px 8px 3px;">
+        <a href="#" target="_blank">
+          <img src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png" height="50"  alt="mysql"/>
+        </a>
+        </br>
+        <span>MySQL</span>
+      </td>    
+      <td align="center" style="padding: 13px 3px 8px 3px;">
         <a href="#" target="_blank">
           <img src="https://seeklogo.com/images/L/laravel-framework-logo-C10176EC8C-seeklogo.com.png" height="50"  alt="larave"/>
         </a>
         </br>
-        <span>Laravel REST</span>
+        <span>Laravel</span>
       </td>
     </tr>
   </tbody>
