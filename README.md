@@ -55,6 +55,7 @@
       <td align="center" style="padding: 13px 3px 8px 3px;">
         <a href="#" target="_blank">
           <img src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" height="50"  alt="boots"/>
+        </a>
         </br>
         <span>Bootsrap</span>
       </td>
