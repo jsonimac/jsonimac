@@ -3,10 +3,12 @@
 <h3 align="center">Aspiring Web Developer from Philippines.</h3>
 
 <p>Over the past two years, I've had the privilege of working in dynamic and diverse software development environments, where I've honed my skills in meticulously examining software applications, identifying defects, and collaborating closely with development teams to drive continuous improvement. My role as a Quality Assurance Engineer has provided me with a deep understanding of the critical role QA plays in delivering high-quality software to end-users.</p>
+<p>
+While my time as a Quality Assurance Engineer has been incredibly valuable, I've always been drawn to the creative and dynamic nature of web development. As technology evolves, so does my curiosity and desire to take a more hands-on role in shaping digital experiences. I believe that my experience in quality assurance has equipped me with a unique perspective that will benefit me in becoming a proficient web developer. My ability to think critically, work collaboratively, and ensure that every aspect of a project meets the highest standards will be assets in my journey toward becoming a web developer.</p>
 
-- 🧑‍💻 I’m currently working on **Human Incubator Inc. as Quality Assurance Engineer / Full Time**  
+- 🧑‍💻 currently working on **Human Incubator Inc. as Quality Assurance Engineer / Full Time**  
   
-- 🌱 I’m currently learning **Fullstack Development(Laravel REST API, Vuejs, SPA)**  
+- 🌱 currently learning **Fullstack Development(Laravel REST API, Vuejs, SPA)**  
 
 - ⚡ Making dreams to reality
 
@@ -143,4 +145,12 @@
 <hr>
 
 <h3 align="center"><img src="https://img.icons8.com/?size=512&id=8uRMRaIgShyZ&format=png" alt="skills" height="30" width="30"> Connect with me <img src="https://img.icons8.com/?size=512&id=S68cG9PHd5m3&format=png" alt="sword" height="30" width="30"></h3>
-
+<a href="https://www.linkedin.com/in/keepcodn/" target="_blank" style="padding: 13px 3px 8px 3px;">
+  <img src="https://seeklogo.com/images/L/linkedin-logo-F84AF05CFC-seeklogo.com.png" alt="linkdin" height="50"/>
+</a>
+<a href="https://www.instagram.com/keep_codn/" target="_blank" style="padding: 13px 3px 8px 3px;">
+  <img src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" alt="instagram" height="50"/>
+</a>
+<a href="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" target="_blank" style="padding: 13px 3px 8px 3px;">
+  <img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="gmail" height="50"/>
+</a>
