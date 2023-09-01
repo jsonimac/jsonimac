@@ -59,6 +59,13 @@
         </br>
         <span>Vuetify</span>
       </td>
+      <td align="center" style="padding: 13px 3px 8px 3px;">
+        <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript" target="_blank">
+          <img src="https://i2.wp.com/www.primefaces.org/wp-content/uploads/2021/10/primevue-logo-1.png?fit=263%2C300&ssl=1" height="50"  alt="vuejs"/>
+        </a> 
+        </br>
+        <span>PrimeVue</span>
+      </td>
     </tr>
   </tbody>
 </table>
