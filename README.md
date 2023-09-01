@@ -153,6 +153,8 @@
 
 <p>Let's work together to bring your ideas to life! Whether you have a challenging problem to solve or an exciting project in mind, I'm ready to dive in and code. Please feel free to contact me to discuss your requirements or to explore potential collaborations.</p>
 
+- ```Email: sonimac122699@gmail.com```
+
 <table align=left>
   <tbody>
     <tr>
@@ -169,9 +171,6 @@
     </tr>
   </tbody>
 </table>
-
-</br>
-```Email: sonimac122699@gmail.com```
 
 
 
