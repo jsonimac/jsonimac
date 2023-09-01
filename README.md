@@ -12,7 +12,7 @@
 
 - ⚡ Making dreams to reality
 
-<h3 align="center"><img src="https://img.icons8.com/?size=512&id=ggJ9-fogDAOl&format=png" alt="skills" height="40" width="40"> Tools and Skills</h3>
+## <h3 align="center"><img src="https://img.icons8.com/?size=512&id=ggJ9-fogDAOl&format=png" alt="skills" height="30" width="30"> Tools and Skills <img src="https://img.icons8.com/?size=512&id=m27n7btt2tuj&format=png" alt="sword" height="30" width="30"></h3>
 
 <h4 align="left">Languages and Frameworks</h4>
 
