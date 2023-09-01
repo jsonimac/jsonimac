@@ -25,20 +25,20 @@
         <span>HTML</span>
       </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" height="50" width="40" alt="html"></a> 
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" height="50" width="40" alt="css"></a> 
         <br>
         <span>CSS</span>
       </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
         <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript" target="_blank">
-          <img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" height="50" width="40" alt="html">
+          <img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" height="50" width="40" alt="javasc">
         </a> 
         <br>
         <span>Javascript</span>
       </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
         <a>
-          <img href="https://seeklogo.com/images/P/php-logo-DC4A01DBB6-seeklogo.com.png" height="50" width="40" alt="html">
+          <img href="https://seeklogo.com/images/P/php-logo-DC4A01DBB6-seeklogo.com.png" height="50" width="40" alt="php">
           </img> 
         </a>
         <br>
@@ -46,7 +46,7 @@
       </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
         <a>
-          <img href="https://seeklogo.com/images/M/mysql-logo-B047FB7790-seeklogo.com.png" height="50" width="40" alt="html">
+          <img href="https://seeklogo.com/images/M/mysql-logo-B047FB7790-seeklogo.com.png" height="50" width="40" alt="mysql">
           </img> 
         </a>
         <br>
@@ -54,21 +54,21 @@
       </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
         <a>
-          <img href="https://seeklogo.com/images/B/bootstrap-5-logo-85A1F11F4F-seeklogo.com.png" height="50" width="40" alt="html">
+          <img href="https://seeklogo.com/images/B/bootstrap-5-logo-85A1F11F4F-seeklogo.com.png" height="50" width="40" alt="boots">
           </img> 
         <br>
         <span>Bootsrap</span>
       </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
         <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript" target="_blank">
-          <img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" height="50" width="40" alt="html">
+          <img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" height="50" width="40" alt="vuejs">
         </a> 
         <br>
         <span>VueJS</span>
       </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
         <a>
-          <img href="https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png" height="50" width="40" alt="html">
+          <img href="https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png" height="50" width="40" alt="larave">
           </img> 
         </a>
         <br>
