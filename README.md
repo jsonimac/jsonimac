@@ -40,28 +40,28 @@
         <span>Javascript</span>
       </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="#" target="_blank">
+        <a href="https://getbootstrap.com" target="_blank">
           <img src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" height="50"  alt="boots"/>
         </a>
         </br>
         <span>Bootsrap</span>
       </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript" target="_blank">
+        <a href="https://vuejs.org" target="_blank">
           <img src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png" height="50"  alt="vuejs"/>
         </a> 
         </br>
         <span>VueJS</span>
       </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript" target="_blank">
+        <a href="https://vuejs.org" target="_blank">
           <img src="https://seeklogo.com/images/V/vuetify-logo-CC59D65FD3-seeklogo.com.png" height="50"  alt="vuejs"/>
         </a> 
         </br>
         <span>Vuetify</span>
       </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript" target="_blank">
+        <a href="https://primevue.org" target="_blank">
           <img src="https://i2.wp.com/www.primefaces.org/wp-content/uploads/2021/10/primevue-logo-1.png?fit=263%2C300&ssl=1" height="50"  alt="vuejs"/>
         </a> 
         </br>
@@ -73,21 +73,21 @@
 <table>
   <tbody>
     <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="">
+        <a href="https://www.php.net">
           <img src="https://seeklogo.com/images/P/PHP-logo-0B2FDC4529-seeklogo.com.png" height="50" alt="Php" />
         </a>
         </br>
         <span>PHP</span>
       </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="#" target="_blank">
+        <a href="https://www.mysql.com" target="_blank">
           <img src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png" height="50"  alt="mysql"/>
         </a>
         </br>
         <span>MySQL</span>
       </td>    
       <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="#" target="_blank">
+        <a href="https://laravel.com" target="_blank">
           <img src="https://seeklogo.com/images/L/laravel-framework-logo-C10176EC8C-seeklogo.com.png" height="50"  alt="larave"/>
         </a>
         </br>
@@ -101,31 +101,38 @@
   <tbody>
     <td align="center" style="padding: 13px 3px 8px 3px;">
         <a href="">
-          <img src="https://seeklogo.com/images/G/github-logo-9BBCA663A4-seeklogo.com.png" height="50" alt="Php" />
+          <img src="https://seeklogo.com/images/G/github-logo-9BBCA663A4-seeklogo.com.png" height="50" alt="github" />
         </a>
         </br>
         <span>Github</span>
       </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
         <a href="#" target="_blank">
-          <img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height="50"  alt="mysql"/>
+          <img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height="50"  alt="vscode"/>
         </a>
         </br>
         <span>VSCode</span>
       </td>    
       <td align="center" style="padding: 13px 3px 8px 3px;">
         <a href="#" target="_blank">
-          <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" height="50"  alt="larave"/>
+          <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" height="50"  alt="postman"/>
         </a>
         </br>
         <span>Postman</span>
       </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
         <a href="#" target="_blank">
-          <img src="https://www.thunderclient.com/images/thunder-256-v2.png" height="50"  alt="larave"/>
+          <img src="https://www.thunderclient.com/images/thunder-256-v2.png" height="50"  alt="thunder client"/>
         </a>
         </br>
         <span>Thunder Client</span>
+      </td>
+      <td align="center" style="padding: 13px 3px 8px 3px;">
+        <a href="#" target="_blank">
+          <img src="https://seeklogo.com/images/L/laragon-logo-D8819D2A8F-seeklogo.com.png" height="50"  alt="larave"/>
+        </a>
+        </br>
+        <span>Laragon</span>
       </td>
   </tbody>
 </table>
@@ -135,11 +142,11 @@
 
 <h4 align="left"><img src="https://img.icons8.com/?size=512&id=46857&format=png" height="30" width="30" alt="principle"> Principles</h4>
 
-- 🧑‍💻 OOP(Object Oriented Programming) 
-- 🎲 MVC(Model View Controller)
-- 📦 DRY(Don't Repeat Yourself)
-- ⚙️ REST API(Representational State Transfer)
-- 💪 Solid(Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, Dependency Inversion)
+- 🧑‍💻 OOP (Object Oriented Programming) 
+- 🎲 MVC (Model View Controller)
+- 📦 DRY (Don't Repeat Yourself)
+- ⚙️ REST API (Representational State Transfer)
+- 💪 Solid (Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, Dependency Inversion)
 
 <hr>
 
