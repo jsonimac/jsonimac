@@ -37,7 +37,7 @@
         <span>Javascript</span>
       </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a>
+        <a href="#" target="_blank">
           <img href="https://seeklogo.com/images/P/php-logo-DC4A01DBB6-seeklogo.com.png" height="50" width="40" alt="php">
           </img> 
         </a>
@@ -45,7 +45,7 @@
         <span>PHP</span>
       </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a>
+        <a href="#" target="_blank">
           <img href="https://seeklogo.com/images/M/mysql-logo-B047FB7790-seeklogo.com.png" height="50" width="40" alt="mysql">
           </img> 
         </a>
@@ -53,7 +53,7 @@
         <span>MySQL</span>
       </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a>
+        <a href="#" target="_blank">
           <img href="https://seeklogo.com/images/B/bootstrap-5-logo-85A1F11F4F-seeklogo.com.png" height="50" width="40" alt="boots">
           </img> 
         <br>
@@ -67,7 +67,7 @@
         <span>VueJS</span>
       </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a>
+        <a href="#" target="_blank">
           <img href="https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png" height="50" width="40" alt="larave">
           </img> 
         </a>
