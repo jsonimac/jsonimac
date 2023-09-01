@@ -38,3 +38,7 @@
 
 <h4 align="left"><img src="https://img.icons8.com/?size=512&id=46857&format=png" height="30" width="30" alt="principle"> Principles</h4>
 
+
+<hr>
+
+## <h3 align="center"><img src="https://img.icons8.com/?size=512&id=8uRMRaIgShyZ&format=png" alt="skills" height="30" width="30"> Connect with me <img src="https://img.icons8.com/?size=512&id=YPTIm-YZ9e2J&format=png" alt="sword" height="30" width="30"></h3>
