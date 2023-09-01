@@ -144,10 +144,27 @@
 <hr>
 
 <h3 align="center"><img src="https://img.icons8.com/?size=512&id=8uRMRaIgShyZ&format=png" alt="skills" height="30" width="30"> Connect with me <img src="https://img.icons8.com/?size=512&id=S68cG9PHd5m3&format=png" alt="sword" height="30" width="30"></h3>
-| <a href="https://www.linkedin.com/in/keepcodn/" target="_blank" style="padding: 13px 3px 8px 3px;">
-  <img src="https://seeklogo.com/images/L/linkedin-logo-F84AF05CFC-seeklogo.com.png" alt="linkdin" height="50"/>
-</a> | <a href="https://www.instagram.com/keep_codn/" target="_blank" style="padding: 13px 3px 8px 3px;">
-  <img src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" alt="instagram" height="50"/>
-</a> | <a href="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" target="_blank" style="padding: 13px 3px 8px 3px;">
-  <img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="gmail" height="50"/>
-</a> |
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://www.linkedin.com/in/keepcodn/" target="_blank" style="padding: 13px 3px 8px 3px;">
+          <img src="https://seeklogo.com/images/L/linkedin-logo-F84AF05CFC-seeklogo.com.png" alt="linkdin" height="50"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://www.instagram.com/keep_codn/" target="_blank" style="padding: 13px 3px 8px 3px;">
+          <img src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" alt="instagram" height="50"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" target="_blank" style="padding: 13px 3px 8px 3px;">
+          <img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="gmail" height="50"/>
+        </a> 
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
