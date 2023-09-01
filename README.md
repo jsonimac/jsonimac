@@ -150,4 +150,4 @@
   <img src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" alt="instagram" height="50"/>
 </a> | <a href="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" target="_blank" style="padding: 13px 3px 8px 3px;">
   <img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="gmail" height="50"/>
-</a>
+</a> |
