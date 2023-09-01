@@ -52,7 +52,16 @@
         </br>
         <span>VueJS</span>
       </td>
-      <td align="center" style="padding: 13px 3px 8px 3px;">
+    </tr>
+  </tbody>
+</table>
+
+</br>
+</br>
+
+<table>
+  <tbody>
+    <td align="center" style="padding: 13px 3px 8px 3px;">
         <a href="">
           <img src="https://seeklogo.com/images/P/PHP-logo-0B2FDC4529-seeklogo.com.png" height="50" alt="Php" />
         </a>
@@ -73,7 +82,6 @@
         </br>
         <span>Laravel</span>
       </td>
-    </tr>
   </tbody>
 </table>
 
