@@ -49,27 +49,27 @@
         <a href="#" target="_blank">
           <img href="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png" height="50" width="40" alt="mysql"/>
         </a>
-        <br>
+        </br>
         <span>MySQL</span>
       </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
         <a href="#" target="_blank">
           <img href="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" height="50" width="40" alt="boots"/>
-        <br>
+        </br>
         <span>Bootsrap</span>
       </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
         <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript" target="_blank">
           <img src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png" height="50" width="40" alt="vuejs"/>
         </a> 
-        <br>
+        </br>
         <span>VueJS</span>
       </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
         <a href="#" target="_blank">
           <img href="https://seeklogo.com/images/L/laravel-framework-logo-C10176EC8C-seeklogo.com.png" height="50" width="40" alt="larave"/>
         </a>
-        <br>
+        </br>
         <span>Laravel REST</span>
       </td>
     </tr>
