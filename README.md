@@ -16,6 +16,7 @@
 
 <h4 align="left"><img src="https://img.icons8.com/?size=512&id=sbdJ1sR9bNZ7&format=png" height="30" width="30" alt="lang"> Languages and Frameworks <img src="https://img.icons8.com/?size=512&id=LPEROFD0vOCt&format=png" height="30" width="30" alt="frame"></h4>
 
+<p>FRONT-END</p>
 <table>
   <tbody>
     <tr>
@@ -57,8 +58,7 @@
 </table>
 
 </br>
-</br>
-
+<p>BACK-END</p>
 <table>
   <tbody>
     <td align="center" style="padding: 13px 3px 8px 3px;">
