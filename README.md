@@ -4,11 +4,9 @@
 
 <p>Over the past two years, I've had the privilege of working in dynamic and diverse software development environments, where I've honed my skills in meticulously examining software applications, identifying defects, and collaborating closely with development teams to drive continuous improvement. My role as a Quality Assurance Engineer has provided me with a deep understanding of the critical role QA plays in delivering high-quality software to end-users.</p>
 
-- 🧑‍💻 I’m currently working on **Human Incubator Inc. as Quality Assurance Engineer/Fulltime**  
+- 🧑‍💻 I’m currently working on **Human Incubator Inc. as Quality Assurance Engineer / Full Time**  
   
-- 🌱 I’m currently learning **Laravel**  
-  
-- 📫 How to reach me **sonimac122699@gmail.com**  
+- 🌱 I’m currently learning **Fullstack Development(Laravel REST API, Vuejs, SPA)**  
 
 - ⚡ Making dreams to reality
 
@@ -22,9 +20,19 @@
   <tbody>
     <tr>
       <td align="center" style="padding: 10px">
-        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="40" width="40" alt="html">
+        <img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" height="40" width="40" alt="html">
         <br>
         <span>HTML</span>
+      </td>
+      <td align="center" style="padding: 10px">
+        <img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" height="40" width="40" alt="html">
+        <br>
+        <span>CSS</span>
+      </td>
+      <td align="center" style="padding: 10px">
+        <img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" height="40" width="40" alt="html">
+        <br>
+        <span>Javascript</span>
       </td>
     </tr>
   </tbody>
@@ -43,3 +51,4 @@
 <hr>
 
 <h3 align="center"><img src="https://img.icons8.com/?size=512&id=8uRMRaIgShyZ&format=png" alt="skills" height="30" width="30"> Connect with me <img src="https://img.icons8.com/?size=512&id=YPTIm-YZ9e2J&format=png" alt="sword" height="30" width="30"></h3>
+📫
