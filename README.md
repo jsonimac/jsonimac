@@ -163,14 +163,14 @@
           <img src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" alt="instagram" height="50"/>
         </a>
       </td>
-      <td>
-        <a href="mailto:sonimac122699@gmail.com" target="_blank" style="padding: 13px 3px 8px 3px;">
-          <img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="gmail" height="50"/>
-        </a> 
-      </td>
     </tr>
   </tbody>
 </table>
+
+<p>
+Let's work together to bring your ideas to life! Whether you have a challenging problem to solve or an exciting project in mind, I'm ready to dive in and code. Please feel free to contact me to discuss your requirements or to explore potential collaborations.</p>
+
+```Email: sonimac122699@gmail.com```
 
 
 
