@@ -111,7 +111,14 @@
         </a>
         </br>
         <span>VSCode</span>
-      </td>    
+      </td>
+      <td align="center" style="padding: 13px 3px 8px 3px;">
+        <a href="https://laragon.org/index.html" target="_blank">
+          <img src="https://seeklogo.com/images/L/laragon-logo-D8819D2A8F-seeklogo.com.png" height="50"  alt="larave"/>
+        </a>
+        </br>
+        <span>Laragon</span>
+      </td> 
       <td align="center" style="padding: 13px 3px 8px 3px;">
         <a href="https://www.postman.com" target="_blank">
           <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" height="50"  alt="postman"/>
@@ -125,13 +132,6 @@
         </a>
         </br>
         <span>Thunder Client</span>
-      </td>
-      <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="https://laragon.org/index.html" target="_blank">
-          <img src="https://seeklogo.com/images/L/laragon-logo-D8819D2A8F-seeklogo.com.png" height="50"  alt="larave"/>
-        </a>
-        </br>
-        <span>Laragon</span>
       </td>
   </tbody>
 </table>
@@ -154,6 +154,7 @@
 <p>Let's work together to bring your ideas to life! Whether you have a challenging problem to solve or an exciting project in mind, I'm ready to dive in and code. Please feel free to contact me to discuss your requirements or to explore potential collaborations.</p>
 
 - ```Email: sonimac122699@gmail.com```
+- ```Mobile: +63 906 180 6885```
 
 <table align=left>
   <tbody>
