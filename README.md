@@ -20,17 +20,17 @@
   <tbody>
     <tr>
       <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" ><img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" height="50" width="40" alt="html"></a> 
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" height="50" width="40" alt="html"></a> 
         <br>
         <span>HTML</span>
       </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" ><img src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" height="50" width="40" alt="html"></a> 
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" height="50" width="40" alt="html"></a> 
         <br>
         <span>CSS</span>
       </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript" target="_blank" ><img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" height="50" width="40" alt="html"></a> 
+        <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript" target="_blank"><img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" height="50" width="40" alt="html"></a> 
         <br>
         <span>Javascript</span>
       </td>
