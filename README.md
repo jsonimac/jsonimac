@@ -33,7 +33,7 @@
       </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
         <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript" target="_blank">
-          <img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" height="50"  alt="javasc" />
+          <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" height="50"  alt="javasc" />
         </a> 
         <br>
         <span>Javascript</span>
