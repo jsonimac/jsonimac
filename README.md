@@ -14,7 +14,7 @@
 <h1 align="center"><img src="https://img.icons8.com/?size=512&id=ggJ9-fogDAOl&format=png" alt="skills" height="30" width="30"> Tech Stack <img src="https://img.icons8.com/?size=512&id=m27n7btt2tuj&format=png" alt="sword" height="30" width="30"></h1>
 
 
-<h4 align="left"><img src="https://img.icons8.com/?size=512&id=sbdJ1sR9bNZ7&format=png" height="30" width="30" alt="lang"> Languages and Frameworks <img src="https://img.icons8.com/?size=512&id=LPEROFD0vOCt&format=png" height="30" width="30" alt="frame"></h4>
+<h3 align="left"><img src="https://img.icons8.com/?size=512&id=sbdJ1sR9bNZ7&format=png" height="30" width="30" alt="lang"> Languages and Frameworks <img src="https://img.icons8.com/?size=512&id=LPEROFD0vOCt&format=png" height="30" width="30" alt="frame"></h3>
 
 <table>
   <tbody>
@@ -95,7 +95,7 @@
   </tbody>
 </table>
 
-<h4 align="left"><img src="https://img.icons8.com/?size=512&id=GiL3hiAx1vEm&format=png" height="30" width="30" alt="saw"> Tools <img src="https://img.icons8.com/?size=512&id=mKgYKWQTRwfQ&format=png" height="30" width="30" alt="hammer"></h4>
+<h3 align="left"><img src="https://img.icons8.com/?size=512&id=GiL3hiAx1vEm&format=png" height="30" width="30" alt="saw"> Tools <img src="https://img.icons8.com/?size=512&id=mKgYKWQTRwfQ&format=png" height="30" width="30" alt="hammer"></h3>
 <table>
   <tbody>
     <td align="center" style="padding: 13px 3px 8px 3px;">
@@ -139,7 +139,7 @@
 
 
 
-<h4 align="left"><img src="https://img.icons8.com/?size=512&id=46857&format=png" height="30" width="30" alt="principle"> Principles</h4>
+<h3 align="left"><img src="https://img.icons8.com/?size=512&id=46857&format=png" height="30" width="30" alt="principle"> Principles</h3>
 
 - 🧑‍💻 OOP (Object Oriented Programming) 
 - 🎲 MVC (Model View Controller)
