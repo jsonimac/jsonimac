@@ -149,8 +149,8 @@
 
 <hr>
 
-<h2 align="center"><img src="https://img.icons8.com/?size=512&id=8uRMRaIgShyZ&format=png" alt="skills" height="30" width="30"> Connect with me <img src="https://img.icons8.com/?size=512&id=S68cG9PHd5m3&format=png" alt="sword" height="30" width="30"></h2>
-<table align=center>
+<h3 align="left"><img src="https://img.icons8.com/?size=512&id=8uRMRaIgShyZ&format=png" alt="skills" height="30" width="30"> Connect with me <img src="https://img.icons8.com/?size=512&id=S68cG9PHd5m3&format=png" alt="sword" height="30" width="30"></h3>
+<table align=left>
   <tbody>
     <tr>
       <td>
@@ -164,7 +164,7 @@
         </a>
       </td>
       <td>
-        <a href="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" target="_blank" style="padding: 13px 3px 8px 3px;">
+        <a href="mailto:sonimac122699@gmail.com" target="_blank" style="padding: 13px 3px 8px 3px;">
           <img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="gmail" height="50"/>
         </a> 
       </td>
