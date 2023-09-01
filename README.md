@@ -1,1 +1,2 @@
-# Hi I'm Jessie
+# Hi I'm Jessie,
+# I'm from Philippines
