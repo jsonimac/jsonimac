@@ -100,35 +100,35 @@
 <table>
   <tbody>
     <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="">
+        <a href="#">
           <img src="https://seeklogo.com/images/G/github-logo-9BBCA663A4-seeklogo.com.png" height="50" alt="github" />
         </a>
         </br>
         <span>Github</span>
       </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="#" target="_blank">
+        <a href="https://code.visualstudio.com" target="_blank">
           <img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height="50"  alt="vscode"/>
         </a>
         </br>
         <span>VSCode</span>
       </td>    
       <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="#" target="_blank">
+        <a href="https://www.postman.com" target="_blank">
           <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" height="50"  alt="postman"/>
         </a>
         </br>
         <span>Postman</span>
       </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="#" target="_blank">
+        <a href="https://www.thunderclient.com" target="_blank">
           <img src="https://www.thunderclient.com/images/thunder-256-v2.png" height="50"  alt="thunder client"/>
         </a>
         </br>
         <span>Thunder Client</span>
       </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="#" target="_blank">
+        <a href="https://laragon.org/index.html" target="_blank">
           <img src="https://seeklogo.com/images/L/laragon-logo-D8819D2A8F-seeklogo.com.png" height="50"  alt="larave"/>
         </a>
         </br>
