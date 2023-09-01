@@ -38,7 +38,7 @@
       </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
         <a href="#" target="_blank">
-          <img href="https://seeklogo.com/images/P/php-logo-DC4A01DBB6-seeklogo.com.png" height="50" width="40" alt="php">
+          <img href="https://seeklogo.com/images/P/PHP-logo-0B2FDC4529-seeklogo.com.png" height="50" width="40" alt="php">
           </img> 
         </a>
         <br>
@@ -46,7 +46,7 @@
       </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
         <a href="#" target="_blank">
-          <img href="https://seeklogo.com/images/M/mysql-logo-B047FB7790-seeklogo.com.png" height="50" width="40" alt="mysql">
+          <img href="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png" height="50" width="40" alt="mysql">
           </img> 
         </a>
         <br>
@@ -54,21 +54,21 @@
       </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
         <a href="#" target="_blank">
-          <img href="https://seeklogo.com/images/B/bootstrap-5-logo-85A1F11F4F-seeklogo.com.png" height="50" width="40" alt="boots">
+          <img href="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" height="50" width="40" alt="boots">
           </img> 
         <br>
         <span>Bootsrap</span>
       </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
         <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript" target="_blank">
-          <img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" height="50" width="40" alt="vuejs">
+          <img src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png" height="50" width="40" alt="vuejs">
         </a> 
         <br>
         <span>VueJS</span>
       </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
         <a href="#" target="_blank">
-          <img href="https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png" height="50" width="40" alt="larave">
+          <img href="https://seeklogo.com/images/L/laravel-framework-logo-C10176EC8C-seeklogo.com.png" height="50" width="40" alt="larave">
           </img> 
         </a>
         <br>
