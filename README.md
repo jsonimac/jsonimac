@@ -119,7 +119,7 @@
       </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
         <a href="#" target="_blank">
-          <img src="https://media.licdn.com/dms/image/C4E0BAQFUBAaVjvcr9g/company-logo_200_200/0/1617975990206?e=1701907200&v=beta&t=cWZX64h66vL74-n4MTiKuwd4uzIlbMxeTJVxmrINkRE" height="50"  alt="larave"/>
+          <img src="https://www.thunderclient.com/images/thunder-256-v2.png" height="50"  alt="larave"/>
         </a>
         </br>
         <span>Thunder Client</span>
