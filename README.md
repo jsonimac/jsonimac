@@ -141,11 +141,11 @@
 
 <h3 align="left"><img src="https://img.icons8.com/?size=512&id=tSsoqhIYwMTk&format=png" height="30" width="30" alt="principle"> Principles</h3>
 
-- 🧑‍💻 <a href=""> OOP (Object Oriented Programming) </a> 
-- 🎲 <a href=""> MVC (Model View Controller) </a>
-- 📦 <a href=""> DRY (Don't Repeat Yourself) </a
-- ⚙️ <a href=""> REST API (Representational State Transfer) </a>
-- 💪 <a href=""> Solid (Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, Dependency Inversion) </a>  
+- 🧑‍💻 <a href="https://www.geeksforgeeks.org/introduction-of-object-oriented-programming/"> OOP (Object Oriented Programming) </a> 
+- 🎲 <a href="https://www.geeksforgeeks.org/mvc-design-pattern/?ref=gcse"> MVC (Model View Controller) </a>
+- 📦 <a href="https://www.geeksforgeeks.org/dry-dont-repeat-yourself-principle-in-java-with-examples"> DRY (Don't Repeat Yourself) </a>
+- ⚙️ <a href="https://www.geeksforgeeks.org/best-coding-practices-for-rest-api-design"> REST API (Representational State Transfer) </a>
+- 💪 <a href="https://www.geeksforgeeks.org/single-responsibility-in-solid-design-principle/"> Solid (Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, Dependency Inversion) </a>  
 
 <hr>
 
