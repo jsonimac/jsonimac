@@ -92,6 +92,20 @@
         </br>
         <span>Laravel</span>
       </td>
+      <td align="center" style="padding: 13px 3px 8px 3px;">
+        <a href="https://getcomposer.org" target="_blank">
+          <img src="https://seeklogo.com/images/C/composer-logo-41AA794AAD-seeklogo.com.png" height="50"  alt="thunder client"/>
+        </a>
+        </br>
+        <span>Composer</span>
+      </td>
+      <td align="center" style="padding: 13px 3px 8px 3px;">
+        <a href="https://docs.npmjs.com/about-npm" target="_blank">
+          <img src="https://seeklogo.com/images/N/npm-node-package-manager-logo-DE93649ED1-seeklogo.com.png" height="50"  alt="thunder client"/>
+        </a>
+        </br>
+        <span>NPM</span>
+      </td>
   </tbody>
 </table>
 
@@ -132,20 +146,6 @@
         </a>
         </br>
         <span>Thunder Client</span>
-      </td>
-      <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="https://getcomposer.org" target="_blank">
-          <img src="https://seeklogo.com/images/C/composer-logo-41AA794AAD-seeklogo.com.png" height="50"  alt="thunder client"/>
-        </a>
-        </br>
-        <span>Composer</span>
-      </td>
-      <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="https://docs.npmjs.com/about-npm" target="_blank">
-          <img src="https://seeklogo.com/images/N/npm-node-package-manager-logo-DE93649ED1-seeklogo.com.png" height="50"  alt="thunder client"/>
-        </a>
-        </br>
-        <span>NPM</span>
       </td>
   </tbody>
 </table>
