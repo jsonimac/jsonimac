@@ -8,9 +8,10 @@
 - 🧑‍💻 currently working on  Human Incubator Inc. as ``` Quality Assurance Engineer / Full Time ```
   
 - 🌱 currently learning ``` Fullstack Development(Laravel REST API, Vuejs, SPA) ```
+  - Laravel <a href="https://www.udemy.com/certificate/UC-1d4e7ce8-9af5-41df-a584-ae0f79bbd834/">Certificate</a>
 
 - 🧑‍💻 Attended Bootcamp ``` Fullstack Development``` in <a href="kodego.ph/courses">KodeGo</a>
-  - lisakdl
+  - Bootcamp <a href="https://assets.kodego.ph/public/isa/j77l8ZM7CFJ6sT0KE4KfqS0yZWpBnm5gdrMoYEEw.pdf">Certificate</a> 
 
 - 🧑‍🎓 Graduated in BSIT(Bachelor of Science and Information Technology)
 
