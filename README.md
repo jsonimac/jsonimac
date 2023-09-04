@@ -9,6 +9,9 @@
   
 - 🌱 currently learning ``` Fullstack Development(Laravel REST API, Vuejs, SPA) ```
 
+- 🧑‍💻 Attended Bootcamp ``` Fullstack Development``` in <a href="kodego.ph/courses">KodeGo</a>
+  - lisakdl
+
 - 🧑‍🎓 Graduated in BSIT(Bachelor of Science and Information Technology)
 
 - ⚡ Actions are making dreams to reality.
