@@ -1,4 +1,4 @@
-<img src="./assets/images/chillmario.gif" alt="codingggg" height="200px"></img>
+<img src="./assets/images/chillmario.gif" alt="codingggg"></img>
 </br>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="35px"></img>, I'm Jessie</h1> 
 
