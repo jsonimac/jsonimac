@@ -1,4 +1,4 @@
-<img src="./assets/images/chillmario.gif" alt="codingggg"></img>
+<img src="./assets/images/chillmario.gif" alt="codingggg" height="200px"></img>
 </br>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="35px"></img>, I'm Jessie</h1> 
 
@@ -162,7 +162,7 @@
 
 
 
-<h3 align="left"><img src="https://img.icons8.com/?size=512&id=tSsoqhIYwMTk&format=png" height="30" width="30" alt="principle"> Principles</h3>
+<h3 align="left"><img src="https://img.icons8.com/?size=512&id=tSsoqhIYwMTk&format=png" height="30" width="30" alt="principle">Patterns</h3>
 
 - 🧑‍💻 <a href="https://www.geeksforgeeks.org/introduction-of-object-oriented-programming/"> OOP (Object Oriented Programming) </a> 
 - 🎲 <a href="https://www.geeksforgeeks.org/mvc-design-pattern/?ref=gcse"> MVC (Model View Controller) </a>
