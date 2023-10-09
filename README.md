@@ -196,8 +196,8 @@
   </tbody>
 </table>
 
-### <a href="https://www.buymeacoffee.com/keepcodn" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=keepcodn&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
+### Support Me
 
-
+<a href="https://www.buymeacoffee.com/keepcodn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymecoffee_jess" /></a>
 
 
