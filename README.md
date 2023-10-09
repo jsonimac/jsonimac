@@ -178,7 +178,6 @@
 <p>Let's work together to bring your ideas to life! Whether you have a challenging problem to solve or an exciting project in mind, I'm ready to dive in and code. Please feel free to contact me to discuss your requirements or to explore potential collaborations.</p>
 
 - ```Email: sonimac122699@gmail.com```
-
 <table align=left>
   <tbody>
     <tr>
@@ -195,6 +194,8 @@
     </tr>
   </tbody>
 </table>
+
+### <img src="https://img.icons8.com/?size=512&id=8uRMRaIgShyZ&format=png" alt="skills" height="30" width="30"> Connect with me <img src="https://img.icons8.com/?size=512&id=S68cG9PHd5m3&format=png" alt="sword" height="30" width="30">
 
 ## Support Me
 
