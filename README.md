@@ -195,11 +195,7 @@
     </tr>
   </tbody>
 </table>
-
-
-
-
-
+</hr>
 
 ### Support Me
 
