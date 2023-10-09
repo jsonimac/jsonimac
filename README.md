@@ -1,8 +1,9 @@
 <img src="https://user-images.githubusercontent.com/61927149/267316895-9d3b9f36-83fe-468f-9504-43c7433e5a82.gif" alt="codingggg"></img>
 </br>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="35px"></img>, I'm Jessie</h1> 
 
-<h4 align="center">Aspiring Software Developer from Philippines.</h4>
+# Hi , I'm Jessie
+
+## Aspiring Software Developer from Philippines.
 
 <p>Over the past two years, I've had the privilege of working in dynamic and diverse software development environments, where I've honed my skills in meticulously examining software applications, identifying defects, and collaborating closely with development teams to drive continuous improvement. My role as a Quality Assurance Engineer has provided me with a deep understanding of the critical role QA plays in delivering high-quality software to end-users.</p>
 <p>While my time as a Quality Assurance Engineer has been incredibly valuable, I've always been drawn to the creative and dynamic nature of web development. As technology evolves, so does my curiosity and desire to take a more hands-on role in shaping digital experiences. I believe that my experience in quality assurance has equipped me with a unique perspective that will benefit me in becoming a proficient web developer. My ability to think critically, work collaboratively, and ensure that every aspect of a project meets the highest standards will be assets in my journey toward becoming a web developer.</p>
@@ -20,10 +21,10 @@
 
 - ⚡ Actions are making dreams to reality.
 
-<h1 align="center"><img src="https://img.icons8.com/?size=512&id=ggJ9-fogDAOl&format=png" alt="skills" height="30" width="30"> Tech Stack <img src="https://img.icons8.com/?size=512&id=m27n7btt2tuj&format=png" alt="sword" height="30" width="30"></h1>
+## <img src="https://img.icons8.com/?size=512&id=ggJ9-fogDAOl&format=png" alt="skills" height="30" width="30"> Tech Stack <img src="https://img.icons8.com/?size=512&id=m27n7btt2tuj&format=png" alt="sword" height="30" width="30">
 
 
-<h3 align="left"><img src="https://img.icons8.com/?size=512&id=sbdJ1sR9bNZ7&format=png" height="30" width="30" alt="lang"> Languages and Frameworks <img src="https://img.icons8.com/?size=512&id=LPEROFD0vOCt&format=png" height="30" width="30" alt="frame"></h3>
+## <img src="https://img.icons8.com/?size=512&id=sbdJ1sR9bNZ7&format=png" height="30" width="30" alt="lang"> Languages and Frameworks <img src="https://img.icons8.com/?size=512&id=LPEROFD0vOCt&format=png" height="30" width="30" alt="frame">
 
 <table>
   <tbody>
@@ -118,7 +119,7 @@
   </tbody>
 </table>
 
-<h3 align="left"><img src="https://img.icons8.com/?size=512&id=HMwxzLul2dfm&format=png" height="30" alt="saw"> Tools <img src="https://img.icons8.com/?size=512&id=5Fq9EkIgnDeR&format=png" height="30" alt="hammer"></h3>
+### <img src="https://img.icons8.com/?size=512&id=HMwxzLul2dfm&format=png" height="30" alt="saw"> Tools <img src="https://img.icons8.com/?size=512&id=5Fq9EkIgnDeR&format=png" height="30" alt="hammer">
 <table>
   <tbody>
     <td align="center" style="padding: 13px 3px 8px 3px;">
@@ -162,7 +163,7 @@
 
 
 
-<h3 align="left"><img src="https://img.icons8.com/?size=512&id=tSsoqhIYwMTk&format=png" height="30" width="30" alt="principle"> Patterns</h3>
+### <img src="https://img.icons8.com/?size=512&id=tSsoqhIYwMTk&format=png" height="30" width="30" alt="principle"> Patterns
 
 - 🧑‍💻 <a href="https://www.geeksforgeeks.org/introduction-of-object-oriented-programming/"> OOP (Object Oriented Programming) </a> 
 - 🎲 <a href="https://www.geeksforgeeks.org/mvc-design-pattern/?ref=gcse"> MVC (Model View Controller) </a>
@@ -172,7 +173,7 @@
 
 <hr>
 
-<h3 align="left"><img src="https://img.icons8.com/?size=512&id=8uRMRaIgShyZ&format=png" alt="skills" height="30" width="30"> Connect with me <img src="https://img.icons8.com/?size=512&id=S68cG9PHd5m3&format=png" alt="sword" height="30" width="30"></h3>
+### <img src="https://img.icons8.com/?size=512&id=8uRMRaIgShyZ&format=png" alt="skills" height="30" width="30"> Connect with me <img src="https://img.icons8.com/?size=512&id=S68cG9PHd5m3&format=png" alt="sword" height="30" width="30">
 
 <p>Let's work together to bring your ideas to life! Whether you have a challenging problem to solve or an exciting project in mind, I'm ready to dive in and code. Please feel free to contact me to discuss your requirements or to explore potential collaborations.</p>
 
@@ -195,8 +196,10 @@
   </tbody>
 </table>
 
-Buy me a coffee ☕️
-<a href="https://www.buymeacoffee.com/keepcodn" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=keepcodn&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
+<div>
+  <a href="https://www.buymeacoffee.com/keepcodn" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=keepcodn&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
+</div>
+
 
 
 
