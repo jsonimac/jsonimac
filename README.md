@@ -70,8 +70,8 @@
         <span>MaterialUI</span>
       </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="https://primevue.org" target="_blank">
-          <img src="https://i2.wp.com/www.primefaces.org/wp-content/uploads/2021/10/primevue-logo-1.png?fit=263%2C300&ssl=1" height="50"  alt="vuejs"/>
+        <a href="https://primereact.org/" target="_blank">
+          <img src="https://primereact.org/images/logo.png" height="50"  alt="primeReact"/>
         </a> 
         </br>
         <span>PrimeVue</span>
