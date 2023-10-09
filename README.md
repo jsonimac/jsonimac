@@ -180,26 +180,20 @@
 - ```Email: sonimac122699@gmail.com```
 <table align=left>
   <tbody>
-    <tr>
-      <td>
-        <a href="https://www.linkedin.com/in/keepcodn/" target="_blank" style="padding: 13px 3px 8px 3px;">
-          <img src="https://seeklogo.com/images/L/linkedin-logo-F84AF05CFC-seeklogo.com.png" alt="linkdin" height="50"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://www.instagram.com/keep_codn/" target="_blank" style="padding: 13px 3px 8px 3px;">
-          <img src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" alt="instagram" height="50"/>
-        </a>
-      </td>
-    </tr>
+    <td>
+      <a href="https://www.linkedin.com/in/keepcodn/" target="_blank" style="padding: 13px 3px 8px 3px;">
+        <img src="https://seeklogo.com/images/L/linkedin-logo-F84AF05CFC-seeklogo.com.png" alt="linkdin" height="50"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.instagram.com/keep_codn/" target="_blank" style="padding: 13px 3px 8px 3px;">
+        <img src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" alt="instagram" height="50"/>
+      </a>
+    </td>
   </tbody>
 </table>
 
-##
-##
-##
-
-## Support Me
+### Support Me
 
 <a href="https://www.buymeacoffee.com/keepcodn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymecoffee_jess" /></a>
 
