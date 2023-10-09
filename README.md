@@ -195,9 +195,8 @@
     </tr>
   </tbody>
 </table>
-</hr>
 
-### Support Me
+## Support Me
 
 <a href="https://www.buymeacoffee.com/keepcodn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymecoffee_jess" /></a>
 
