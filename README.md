@@ -56,18 +56,18 @@
         <span>Bootsrap</span>
       </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="https://vuejs.org" target="_blank">
-          <img src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png" height="50"  alt="vuejs"/>
+        <a href="https://react.dev/" target="_blank">
+          <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K" height="50"  alt="reactjs"/>
         </a> 
         </br>
-        <span>VueJS</span>
+        <span>ReactJS</span>
       </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="https://vuejs.org" target="_blank">
-          <img src="https://seeklogo.com/images/V/vuetify-logo-CC59D65FD3-seeklogo.com.png" height="50"  alt="vuejs"/>
+        <a href="https://mui.com/" target="_blank">
+          <img src="https://mui.com/static/logo.png" height="50"  alt="materialUI"/>
         </a> 
         </br>
-        <span>Vuetify</span>
+        <span>MaterialUI</span>
       </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
         <a href="https://primevue.org" target="_blank">
