@@ -12,7 +12,7 @@
   
 - 🌱 currently learning ``` Fullstack Development(Laravel REST API, Vuejs, SPA) ```
   - 📜 Laravel <a href="https://www.udemy.com/certificate/UC-1d4e7ce8-9af5-41df-a584-ae0f79bbd834/">Certificate</a>
-  - 📜 Vuejs <a href="#">Certificate</a> - Inprogress
+  - 📜 Reactjs <a href="#">Certificate</a> - Inprogress
 
 - 🧑‍💻 Attended Bootcamp ``` Fullstack Development``` in <a href="https://www.kodego.ph/courses">KodeGo</a>
   - 📜 Bootcamp <a href="https://assets.kodego.ph/public/isa/j77l8ZM7CFJ6sT0KE4KfqS0yZWpBnm5gdrMoYEEw.pdf">Certificate</a> 
