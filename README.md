@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/61927149/267316895-9d3b9f36-83fe-468f-9504-43c7433e5a82.gif" alt="codingggg"></img>
 </br>
 
-<div align="center">Hi , I'm Jessie</div>
+<div align="center" style="font-size: 40px; font-weight: bold;">Hi , I'm Jessie</div>
 
 ## Aspiring Software Developer from Philippines.
 
@@ -21,7 +21,7 @@
 
 - ⚡ Actions are making dreams to reality.
 
-## <img src="https://img.icons8.com/?size=512&id=ggJ9-fogDAOl&format=png" alt="skills" height="30" width="30"> Tech Stack <img src="https://img.icons8.com/?size=512&id=m27n7btt2tuj&format=png" alt="sword" height="30" width="30">
+## <div align="center"> <img src="https://img.icons8.com/?size=512&id=ggJ9-fogDAOl&format=png" alt="skills" height="30" width="30"> Tech Stack <img src="https://img.icons8.com/?size=512&id=m27n7btt2tuj&format=png" alt="sword" height="30" width="30"> </div> 
 
 
 ### <img src="https://img.icons8.com/?size=512&id=sbdJ1sR9bNZ7&format=png" height="30" width="30" alt="lang"> Languages and Frameworks <img src="https://img.icons8.com/?size=512&id=LPEROFD0vOCt&format=png" height="30" width="30" alt="frame">
@@ -173,7 +173,7 @@
 
 <hr>
 
-### <img src="https://img.icons8.com/?size=512&id=8uRMRaIgShyZ&format=png" alt="skills" height="30" width="30"> Connect with me <img src="https://img.icons8.com/?size=512&id=S68cG9PHd5m3&format=png" alt="sword" height="30" width="30">
+### <div align="center"><img src="https://img.icons8.com/?size=512&id=8uRMRaIgShyZ&format=png" alt="skills" height="30" width="30"> Connect with me <img src="https://img.icons8.com/?size=512&id=S68cG9PHd5m3&format=png" alt="sword" height="30" width="30"></div> 
 
 <p>Let's work together to bring your ideas to life! Whether you have a challenging problem to solve or an exciting project in mind, I'm ready to dive in and code. Please feel free to contact me to discuss your requirements or to explore potential collaborations.</p>
 
