@@ -3,7 +3,7 @@
 
 # <div align="center" style="font-size: 40px; font-weight: bold;">Hi , I'm Jessie</div>
 
-## Aspiring Software Developer from Philippines.
+## <div align="center">Aspiring Software Developer from Philippines.</div> 
 
 <p>Over the past two years, I've had the privilege of working in dynamic and diverse software development environments, where I've honed my skills in meticulously examining software applications, identifying defects, and collaborating closely with development teams to drive continuous improvement. My role as a Quality Assurance Engineer has provided me with a deep understanding of the critical role QA plays in delivering high-quality software to end-users.</p>
 <p>While my time as a Quality Assurance Engineer has been incredibly valuable, I've always been drawn to the creative and dynamic nature of web development. As technology evolves, so does my curiosity and desire to take a more hands-on role in shaping digital experiences. I believe that my experience in quality assurance has equipped me with a unique perspective that will benefit me in becoming a proficient web developer. My ability to think critically, work collaboratively, and ensure that every aspect of a project meets the highest standards will be assets in my journey toward becoming a web developer.</p>
