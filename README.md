@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/61927149/267316895-9d3b9f36-83fe-468f-9504-43c7433e5a82.gif" alt="codingggg"></img>
 </br>
 
-# <div align="center">Hi , I'm Jessie</div>
+# <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="35px"></img> <div align="center">Hi , I'm Jessie</div>
 
 ## <div align="center">Aspiring Software Developer from Philippines.</div> 
 
