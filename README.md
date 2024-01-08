@@ -190,6 +190,11 @@
         <img src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" alt="instagram" height="50"/>
       </a>
     </td>
+    <td>
+      <a href="https://jessie-dev.vercel.app/" target="_blank" style="padding: 13px 3px 8px 3px;">
+        <img src="https://jessie-dev.vercel.app/logo1.png" alt="portfolio" height="50"/>
+      </a>
+    </td>
   </tbody>
 </table>
 
