@@ -6,14 +6,18 @@
 ## <div align="center"><img src="https://cdn3d.iconscout.com/3d/premium/thumb/typing-code-8584482-6805475.png?f=webp" height="60"></img> Aspiring Software Developer from Philippines. <img src="https://cdn3d.iconscout.com/3d/premium/thumb/philippine-flag-9896821-8018395.png?f=webp" height="60"></img></div> 
 
 <p>Over the past two years, I've had the privilege of working in dynamic and diverse software development environments, where I've honed my skills in meticulously examining software applications, identifying defects, and collaborating closely with development teams to drive continuous improvement. My role as a Quality Assurance Engineer has provided me with a deep understanding of the critical role QA plays in delivering high-quality software to end-users.</p>
-<p>While my time as a Quality Assurance Engineer has been incredibly valuable, I've always been drawn to the creative and dynamic nature of web development. As technology evolves, so does my curiosity and desire to take a more hands-on role in shaping digital experiences. I believe that my experience in quality assurance has equipped me with a unique perspective that will benefit me in becoming a proficient web developer. My ability to think critically, work collaboratively, and ensure that every aspect of a project meets the highest standards will be assets in my journey toward becoming a web developer.</p>
+
+<p>I've always been drawn to the creative and dynamic nature of web development. As technology evolves, so does my curiosity and desire to take a more hands-on role in shaping digital experiences. 
+</p>
+
+<p>
+In my two years as a QA, I've learned a lot about the common weaknesses developers often have. This insight is guiding me on the specific areas I should work on as I switch to a career in development. My ability to think critically, work collaboratively, and ensure that every aspect of a project meets the highest standards will be assets in my journey toward becoming a web developer.</p>
 
 - 🧑‍💻 Formerly working on  Human Incubator Inc. as ``` Quality Assurance Engineer / Full Time ```
   
 - 🌱 currently learning ``` Fullstack Development(Laravel REST API, Vuejs, SPA) ```
   - 📜 Laravel <a href="https://www.udemy.com/certificate/UC-1d4e7ce8-9af5-41df-a584-ae0f79bbd834/">Certificate</a>
-  - 📜 Reactjs <a href="#">Certificate</a> - Inprogress
-  - 📜 JavaScript <a href="#">Certificate</a> - Inprogress
+  - 📜 VueJS <a href="#">Certificate</a> - Inprogress
 
 - 🧑‍💻 Attended Bootcamp ``` Fullstack Development``` in <a href="https://www.kodego.ph/courses">KodeGo</a>
   - 📜 Bootcamp <a href="https://assets.kodego.ph/public/isa/j77l8ZM7CFJ6sT0KE4KfqS0yZWpBnm5gdrMoYEEw.pdf">Certificate</a> 
@@ -57,25 +61,25 @@
         <span>Bootsrap</span>
       </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="https://react.dev/" target="_blank">
-          <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" height="50"  alt="reactjs"/>
+        <a href="https://vuejs.org/" target="_blank">
+          <img src="https://vuejs.org/logo.svg" height="50"  alt="vuejs"/>
         </a> 
         </br>
-        <span>ReactJS</span>
+        <span>VueJS</span>
       </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="https://mui.com/" target="_blank">
-          <img src="https://mui.com/static/logo.png" height="50"  alt="materialUI"/>
+        <a href="https://vuetifyjs.com/" target="_blank">
+          <img src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-dark-atom.svg" height="50"  alt="veutify"/>
         </a> 
         </br>
-        <span>MaterialUI</span>
+        <span>Vuetify</span>
       </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="https://primereact.org/" target="_blank">
-          <img src="https://primereact.org/images/logo.png" height="50"  alt="primeReact"/>
+        <a href="https://primevue.org/" target="_blank">
+          <img src="https://primevue.org/favicon.ico" height="50"  alt="primevue"/>
         </a> 
         </br>
-        <span>PrimeReact</span>
+        <span>PrimeVue</span>
       </td>
     </tr>
   </tbody>
