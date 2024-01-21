@@ -54,6 +54,32 @@ In my two years as a QA, I've learned a lot about the common weaknesses develope
         <span>Javascript</span>
       </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
+        <a href="https://www.php.net">
+          <img src="https://seeklogo.com/images/P/PHP-logo-0B2FDC4529-seeklogo.com.png" height="50" alt="Php" />
+        </a>
+        </br>
+        <span>PHP</span>
+      </td>
+      <td align="center" style="padding: 13px 3px 8px 3px;">
+        <a href="https://www.mysql.com" target="_blank">
+          <img src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png" height="50"  alt="mysql"/>
+        </a>
+        </br>
+        <span>MySQL</span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <tbody>
+      <td align="center" style="padding: 13px 3px 8px 3px;">
+        <a href="https://tailwindcss.com/" target="_blank">
+          <img src="https://tailwindcss.com/favicons/favicon-32x32.png" height="50"  alt="tailwind"/>
+        </a>
+        </br>
+        <span>TailwindCSS</span>
+      </td>
+      <td align="center" style="padding: 13px 3px 8px 3px;">
         <a href="https://getbootstrap.com" target="_blank">
           <img src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" height="50"  alt="boots"/>
         </a>
@@ -80,39 +106,13 @@ In my two years as a QA, I've learned a lot about the common weaknesses develope
         </a> 
         </br>
         <span>PrimeVue</span>
-      </td>
-    </tr>
-  </tbody>
-</table>
-<table>
-  <tbody>
-    <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="https://www.php.net">
-          <img src="https://seeklogo.com/images/P/PHP-logo-0B2FDC4529-seeklogo.com.png" height="50" alt="Php" />
-        </a>
-        </br>
-        <span>PHP</span>
-      </td>
-      <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="https://www.mysql.com" target="_blank">
-          <img src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png" height="50"  alt="mysql"/>
-        </a>
-        </br>
-        <span>MySQL</span>
-      </td>    
+      </td>   
       <td align="center" style="padding: 13px 3px 8px 3px;">
         <a href="https://laravel.com" target="_blank">
           <img src="https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png" height="50"  alt="larave"/>
         </a>
         </br>
         <span>Laravel</span>
-      </td>
-      <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="https://getcomposer.org" target="_blank">
-          <img src="https://seeklogo.com/images/C/composer-logo-41AA794AAD-seeklogo.com.png" height="50"  alt="thunder client"/>
-        </a>
-        </br>
-        <span>Composer</span>
       </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
         <a href="https://docs.npmjs.com/about-npm" target="_blank">
@@ -147,7 +147,14 @@ In my two years as a QA, I've learned a lot about the common weaknesses develope
         </a>
         </br>
         <span>Laragon</span>
-      </td> 
+      </td>
+      <td align="center" style="padding: 13px 3px 8px 3px;">
+        <a href="https://getcomposer.org" target="_blank">
+          <img src="https://seeklogo.com/images/C/composer-logo-41AA794AAD-seeklogo.com.png" height="50"  alt="thunder client"/>
+        </a>
+        </br>
+        <span>Composer</span>
+      </td>
       <td align="center" style="padding: 13px 3px 8px 3px;">
         <a href="https://www.postman.com" target="_blank">
           <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" height="50"  alt="postman"/>
