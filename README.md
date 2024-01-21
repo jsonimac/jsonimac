@@ -114,13 +114,6 @@ In my two years as a QA, I've learned a lot about the common weaknesses develope
         </br>
         <span>Laravel</span>
       </td>
-      <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="https://docs.npmjs.com/about-npm" target="_blank">
-          <img src="https://seeklogo.com/images/N/npm-node-package-manager-logo-DE93649ED1-seeklogo.com.png" height="50"  alt="thunder client"/>
-        </a>
-        </br>
-        <span>NPM</span>
-      </td>
   </tbody>
 </table>
 
@@ -168,6 +161,13 @@ In my two years as a QA, I've learned a lot about the common weaknesses develope
         </a>
         </br>
         <span>Thunder Client</span>
+      </td>
+      <td align="center" style="padding: 13px 3px 8px 3px;">
+        <a href="https://docs.npmjs.com/about-npm" target="_blank">
+          <img src="https://seeklogo.com/images/N/npm-node-package-manager-logo-DE93649ED1-seeklogo.com.png" height="50"  alt="thunder client"/>
+        </a>
+        </br>
+        <span>NPM</span>
       </td>
   </tbody>
 </table>
