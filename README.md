@@ -3,7 +3,7 @@
 
 # <div align="center"> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="35px"></img> Hi , I'm Jessie</div>
 
-## <div align="center"><img src="https://cdn3d.iconscout.com/3d/premium/thumb/typing-code-8584482-6805475.png?f=webp" height="60"></img> Aspiring Software Developer from Philippines. <img src="https://cdn3d.iconscout.com/3d/premium/thumb/philippine-flag-9896821-8018395.png?f=webp" height="60"></img></div> 
+## <div align="center"><img src="https://cdn3d.iconscout.com/3d/premium/thumb/typing-code-8584482-6805475.png?f=webp" height="60"></img> Aspiring Web Developer from Philippines. <img src="https://cdn3d.iconscout.com/3d/premium/thumb/philippine-flag-9896821-8018395.png?f=webp" height="60"></img></div> 
 
 <p>Over the past two years, I've had the privilege of working in dynamic and diverse software development environments, where I've honed my skills in meticulously examining software applications, identifying defects, and collaborating closely with development teams to drive continuous improvement. My role as a Quality Assurance Engineer has provided me with a deep understanding of the critical role QA plays in delivering high-quality software to end-users.</p>
 
