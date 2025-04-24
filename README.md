@@ -1,7 +1,7 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&weight=800&size=30&pause=350&color=7A18F7&center=true&vCenter=true&width=505&height=80&lines=Hello, I'm Jessie!;Software QA Test Engineer+%F0%9F%8E%89">
-  </a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 </h1>
 <p>
 As a <b>Software QA Test Engineer</b> with three years of dedicated manual testing experience, I've cultivated a strong understanding of the STLC methodology, effectively managing story and improvement tickets through its various stages. My proficiency extends to API testing using Postman, database validation with MySQL, and meticulous bug reporting via Jira, alongside the creation of comprehensive test cases. Driven by continuous growth. 
