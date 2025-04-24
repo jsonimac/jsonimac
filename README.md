@@ -1,6 +1,6 @@
 <h1 align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=900&color=00BD34&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Jessie!+%F0%9F%91%8B;A+Software+QA+Test+Engineer+%F0%9F%8E%89)](https://git.io/typing-svg)
 
 </h1>
 <p>
