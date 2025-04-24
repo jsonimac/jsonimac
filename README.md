@@ -1,213 +1,58 @@
-<img src="https://user-images.githubusercontent.com/61927149/267316895-9d3b9f36-83fe-468f-9504-43c7433e5a82.gif" alt="codingggg"></img>
-</br>
-
-# <div align="center"> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="35px"></img> Hi , I'm Jessie</div>
-
-## <div align="center"><img src="https://cdn3d.iconscout.com/3d/premium/thumb/typing-code-8584482-6805475.png?f=webp" height="60"></img> Aspiring Web Developer from Philippines. <img src="https://cdn3d.iconscout.com/3d/premium/thumb/philippine-flag-9896821-8018395.png?f=webp" height="60"></img></div> 
-
-<p>Over the past two years, I've had the privilege of working in dynamic and diverse software development environments, where I've honed my skills in meticulously examining software applications, identifying defects, and collaborating closely with development teams to drive continuous improvement. My role as a Quality Assurance Engineer has provided me with a deep understanding of the critical role QA plays in delivering high-quality software to end-users.</p>
-
-<p>I've always been drawn to the creative and dynamic nature of web development. As technology evolves, so does my curiosity and desire to take a more hands-on role in shaping digital experiences. 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&weight=800&size=30&pause=350&color=7A18F7&center=true&vCenter=true&width=505&height=80&lines=Hello, I'm Jessie!;Software QA Test Engineer+%F0%9F%8E%89">
+  </a>
+</h1>
+<p>
+As a <b>Software QA Test Engineer</b> with three years of dedicated manual testing experience, I've cultivated a strong understanding of the STLC methodology, effectively managing story and improvement tickets through its various stages. My proficiency extends to API testing using Postman, database validation with MySQL, and meticulous bug reporting via Jira, alongside the creation of comprehensive test cases. Driven by continuous growth. 
 </p>
 
-<p>
-In my two years as a QA, I've learned a lot about the common weaknesses developers often have. This insight is guiding me on the specific areas I should work on as I switch to a career in development. My ability to think critically, work collaboratively, and ensure that every aspect of a project meets the highest standards will be assets in my journey toward becoming a web developer.</p>
+<p>I am currently upskilling in test automation, focusing on <b>Playwright</b> with <b>TypeScript</b> to enhance testing efficiency and coverage. This journey reflects my commitment to delivering high-quality software through both established manual techniques and cutting-edge automation practices.</p>
 
-- 🧑‍💻 Formerly working on  Human Incubator Inc. as ``` Quality Assurance Engineer / Full Time ```
-  
-- 🌱 currently learning ``` Fullstack Development(Laravel REST API, Vuejs, SPA) ```
-  - 📜 Laravel <a href="https://www.udemy.com/certificate/UC-1d4e7ce8-9af5-41df-a584-ae0f79bbd834/">Certificate</a>
-  - 📜 VueJS <a href="#">Certificate</a> - Inprogress
+---
 
-- 🧑‍💻 Attended Bootcamp ``` Fullstack Development``` in <a href="https://www.kodego.ph/courses">KodeGo</a>
-  - 📜 Bootcamp <a href="https://assets.kodego.ph/public/isa/j77l8ZM7CFJ6sT0KE4KfqS0yZWpBnm5gdrMoYEEw.pdf">Certificate</a> 
+- 🔭 Focusing on Learning Typescript Fundamentals.😎
+- 🌱 Trying to become an **Software Development Engineer in Test** ❤
+- 💻 I love programming and hunting bugs 🐞.
+- 📰 Reading tech documentation whenever possible.
+- 🥅 2025 Goals: Learn Sofware Automation using Playwright.
+- ⚡ Fun fact: Negative Space Programming is Positive.🤣
 
-- 🧑‍🎓 Graduated in BSIT(Bachelor of Science and Information Technology)
+---
 
-- ⚡ Actions are making dreams to reality.
+### Languages and Tools:
 
-## <div align="center"> <img src="https://img.icons8.com/?size=512&id=ggJ9-fogDAOl&format=png" alt="skills" height="30" width="30"> Tech Stack <img src="https://img.icons8.com/?size=512&id=m27n7btt2tuj&format=png" alt="sword" height="30" width="30"> </div> 
+![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&labelColor=black)
+![Static Badge](https://img.shields.io/badge/CSS-%23663399?style=for-the-badge&logo=css&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Javascript-%23F7DF1E?style=for-the-badge&logo=javascript&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Typescript-%233178C6?style=for-the-badge&logo=typescript&labelColor=black)
+![Static Badge](https://img.shields.io/badge/NodeJS-%235FA04E?style=for-the-badge&logo=node.js&labelColor=black)
+![Static Badge](https://img.shields.io/badge/ReactJS-%2361DAFB?style=for-the-badge&logo=react&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Tailwind-%2306B6D4?style=for-the-badge&logo=tailwind%20css&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Prime_React-%2303C4E8?style=for-the-badge&logo=primereact&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=Bootstrap&labelColor=black)
+![Static Badge](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=Laravel&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Laragon-%230E83CD?style=for-the-badge&logo=Laragon&labelColor=black)
+![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=Postman&labelColor=black)
+![Static Badge](https://custom-icon-badges.demolab.com/badge/Visual_Studio_Code-%230082cf?style=for-the-badge&logo=vscode&labelColor=black)
+![Static Badge](https://custom-icon-badges.demolab.com/badge/Playwright-%2345ba4b?style=for-the-badge&logo=playwright-badge&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Cypress-%2369D3A7?style=for-the-badge&logo=cypress&labelColor=black)
+![Static Badge](https://img.shields.io/badge/selenium-%2343B02A?style=for-the-badge&logo=selenium&labelColor=black)
 
+---
 
-### <img src="https://img.icons8.com/?size=512&id=sbdJ1sR9bNZ7&format=png" height="30" width="30" alt="lang"> Languages and Frameworks <img src="https://img.icons8.com/?size=512&id=LPEROFD0vOCt&format=png" height="30" width="30" alt="frame">
+### Connect With Me :
 
-<table>
-  <tbody>
-    <tr>
-      <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-        <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" height="50"  alt="html">
-        </a> 
-        <br>
-        <span>HTML</span>
-      </td>
-      <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" height="50"  alt="css"></a> 
-        <br>
-        <span>CSS</span>
-      </td>
-      <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript" target="_blank">
-          <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" height="50"  alt="javasc" />
-        </a> 
-        <br>
-        <span>Javascript</span>
-      </td>
-      <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="https://www.php.net">
-          <img src="https://seeklogo.com/images/P/PHP-logo-0B2FDC4529-seeklogo.com.png" height="50" alt="Php" />
-        </a>
-        </br>
-        <span>PHP</span>
-      </td>
-      <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="https://www.mysql.com" target="_blank">
-          <img src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png" height="50"  alt="mysql"/>
-        </a>
-        </br>
-        <span>MySQL</span>
-      </td>
-    </tr>
-  </tbody>
-</table>
-<table>
-  <tbody>
-      <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="https://tailwindcss.com/" target="_blank">
-          <img src="https://tailwindcss.com/favicons/favicon-32x32.png" height="50"  alt="tailwind"/>
-        </a>
-        </br>
-        <span>TailwindCSS</span>
-      </td>
-      <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="https://getbootstrap.com" target="_blank">
-          <img src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" height="50"  alt="boots"/>
-        </a>
-        </br>
-        <span>Bootsrap</span>
-      </td>
-      <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="https://vuejs.org/" target="_blank">
-          <img src="https://vuejs.org/logo.svg" height="50"  alt="vuejs"/>
-        </a> 
-        </br>
-        <span>VueJS</span>
-      </td>
-      <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="https://vuetifyjs.com/" target="_blank">
-          <img src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-dark-atom.svg" height="50"  alt="veutify"/>
-        </a> 
-        </br>
-        <span>Vuetify</span>
-      </td>
-      <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="https://primevue.org/" target="_blank">
-          <img src="https://primevue.org/favicon.ico" height="50"  alt="primevue"/>
-        </a> 
-        </br>
-        <span>PrimeVue</span>
-      </td>   
-      <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="https://laravel.com" target="_blank">
-          <img src="https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png" height="50"  alt="larave"/>
-        </a>
-        </br>
-        <span>Laravel</span>
-      </td>
-  </tbody>
-</table>
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Jsonimac2699)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keepcodn/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/keep_codn/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/JessieCaminos)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonimac122699@gmail.com)
 
-### <img src="https://img.icons8.com/?size=512&id=HMwxzLul2dfm&format=png" height="30" alt="saw"> Tools <img src="https://img.icons8.com/?size=512&id=5Fq9EkIgnDeR&format=png" height="30" alt="hammer">
-<table>
-  <tbody>
-    <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="#">
-          <img src="https://seeklogo.com/images/G/github-logo-9BBCA663A4-seeklogo.com.png" height="50" alt="github" />
-        </a>
-        </br>
-        <span>Github</span>
-      </td>
-      <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="https://code.visualstudio.com" target="_blank">
-          <img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height="50"  alt="vscode"/>
-        </a>
-        </br>
-        <span>VSCode</span>
-      </td>
-      <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="https://laragon.org/index.html" target="_blank">
-          <img src="https://seeklogo.com/images/L/laragon-logo-D8819D2A8F-seeklogo.com.png" height="50"  alt="larave"/>
-        </a>
-        </br>
-        <span>Laragon</span>
-      </td>
-      <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="https://getcomposer.org" target="_blank">
-          <img src="https://seeklogo.com/images/C/composer-logo-41AA794AAD-seeklogo.com.png" height="50"  alt="thunder client"/>
-        </a>
-        </br>
-        <span>Composer</span>
-      </td>
-      <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="https://www.postman.com" target="_blank">
-          <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" height="50"  alt="postman"/>
-        </a>
-        </br>
-        <span>Postman</span>
-      </td>
-      <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="https://www.thunderclient.com" target="_blank">
-          <img src="https://www.thunderclient.com/images/thunder-256-v2.png" height="50"  alt="thunder client"/>
-        </a>
-        </br>
-        <span>Thunder Client</span>
-      </td>
-      <td align="center" style="padding: 13px 3px 8px 3px;">
-        <a href="https://docs.npmjs.com/about-npm" target="_blank">
-          <img src="https://seeklogo.com/images/N/npm-node-package-manager-logo-DE93649ED1-seeklogo.com.png" height="50"  alt="thunder client"/>
-        </a>
-        </br>
-        <span>NPM</span>
-      </td>
-  </tbody>
-</table>
+---
 
-
-
-
-### <img src="https://img.icons8.com/?size=512&id=tSsoqhIYwMTk&format=png" height="30" width="30" alt="principle"> Patterns
-
-- 🧑‍💻 <a href="https://www.geeksforgeeks.org/introduction-of-object-oriented-programming/"> OOP (Object Oriented Programming) </a> 
-- 🎲 <a href="https://www.geeksforgeeks.org/mvc-design-pattern/?ref=gcse"> MVC (Model View Controller) </a>
-- 📦 <a href="https://www.geeksforgeeks.org/dry-dont-repeat-yourself-principle-in-java-with-examples"> DRY (Don't Repeat Yourself) </a>
-- ⚙️ <a href="https://www.geeksforgeeks.org/best-coding-practices-for-rest-api-design"> REST API (Representational State Transfer) </a>
-- 💪 <a href="https://www.geeksforgeeks.org/single-responsibility-in-solid-design-principle/"> Solid (Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, Dependency Inversion) </a>  
-
-<hr>
-
-### <div align="center"><img src="https://img.icons8.com/?size=512&id=8uRMRaIgShyZ&format=png" alt="skills" height="30" width="30"> Connect with me <img src="https://img.icons8.com/?size=512&id=S68cG9PHd5m3&format=png" alt="sword" height="30" width="30"></div> 
-
-<p>Let's work together to bring your ideas to life! Whether you have a challenging problem to solve or an exciting project in mind, I'm ready to dive in and code. Please feel free to contact me to discuss your requirements or to explore potential collaborations.</p>
-
-- ```Email: sonimac122699@gmail.com```
-- ```Portfoio: https://jessie-dev.vercel.app/```
-<table>
-  <tbody>
-    <td>
-      <a href="https://www.linkedin.com/in/keepcodn/" target="_blank" style="padding: 13px 3px 8px 3px;">
-        <img src="https://seeklogo.com/images/L/linkedin-logo-F84AF05CFC-seeklogo.com.png" alt="linkdin" height="50"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.instagram.com/keep_codn/" target="_blank" style="padding: 13px 3px 8px 3px;">
-        <img src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" alt="instagram" height="50"/>
-      </a>
-    </td>
-  </tbody>
-</table>
-
-### Support Me
+### Support Me:
 
 <a href="https://www.buymeacoffee.com/keepcodn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymecoffee_jess" /></a>
-
-
