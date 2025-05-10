@@ -3,15 +3,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=900&color=00BD34&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Jessie!+%F0%9F%91%8B;A+Software+QA+Test+Engineer+%F0%9F%8E%89)](https://git.io/typing-svg)
 
 </h1>
+
 <p>
 As a <b>Software QA Test Engineer</b> with three years of dedicated manual testing experience, I've cultivated a strong understanding of the STLC methodology, effectively managing story and improvement tickets through its various stages. My proficiency extends to API testing using Postman, database validation with MySQL, and meticulous bug reporting via Jira, alongside the creation of comprehensive test cases. Driven by continuous growth. 
 </p>
 
-<p>I am currently upskilling in test automation, focusing on <b>Playwright</b> with <b>TypeScript</b> to enhance testing efficiency and coverage. This journey reflects my commitment to delivering high-quality software through both established manual techniques and cutting-edge automation practices.</p>
+<p>Currently, as a <b>Software QA Test Engineer</b> at <b>AMGS88</b>, I handle story and improvement tickets while applying the STLC methodology as a core QA process. In my free time, I am <b>Upskilling in Test Automation</b>, focusing on <b>Playwright</b> with <b>TypeScript</b> to boost testing efficiency and coverage, underscoring my dedication to delivering high-quality software through both proven manual methods and innovative automation techniques.</p>
 
 ---
 
-- 🔭 Focusing on Learning Typescript Fundamentals.😎
+- 💼 Currently working as **Software QA Test Engineer** at AMSG88 IT SOLUTIONS OPC.
+- 🔭 Focusing on Learning Typescript in Free Time.😎
 - 🌱 Trying to become an **Software Development Engineer in Test** ❤
 - 💻 I love programming and hunting bugs 🐞.
 - 📰 Reading tech documentation whenever possible.
@@ -26,20 +28,24 @@ As a <b>Software QA Test Engineer</b> with three years of dedicated manual testi
 ![Static Badge](https://img.shields.io/badge/CSS-%23663399?style=for-the-badge&logo=css&labelColor=%232f3742)
 ![Static Badge](https://img.shields.io/badge/Javascript-%23F7DF1E?style=for-the-badge&logo=javascript&labelColor=%232f3742)
 ![Static Badge](https://img.shields.io/badge/Typescript-%233178C6?style=for-the-badge&logo=typescript&labelColor=%232f3742)
-![Static Badge](https://img.shields.io/badge/NodeJS-%235FA04E?style=for-the-badge&logo=node.js&labelColor=%232f3742)
+![Static Badge](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&labelColor=%232f3742)
+![Static Badge](https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=Bootstrap&labelColor=%232f3742)
 ![Static Badge](https://img.shields.io/badge/ReactJS-%2361DAFB?style=for-the-badge&logo=react&labelColor=%232f3742)
+![Static Badge](https://img.shields.io/badge/NodeJS-%235FA04E?style=for-the-badge&logo=node.js&labelColor=%232f3742)
 ![Static Badge](https://img.shields.io/badge/Tailwind-%2306B6D4?style=for-the-badge&logo=tailwind%20css&labelColor=%232f3742)
 ![Static Badge](https://img.shields.io/badge/Prime_React-%2303C4E8?style=for-the-badge&logo=primereact&labelColor=%232f3742)
-![Static Badge](https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=Bootstrap&labelColor=%232f3742)
-![Static Badge](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&labelColor=%232f3742)
-![Static Badge](https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=Laravel&labelColor=%232f3742)
 ![Static Badge](https://img.shields.io/badge/Laragon-%230E83CD?style=for-the-badge&logo=Laragon&labelColor=%232f3742)
+![Static Badge](https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=Laravel&labelColor=%232f3742)
 ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&labelColor=%232f3742)
 ![Static Badge](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=Postman&labelColor=%232f3742)
 ![Static Badge](https://custom-icon-badges.demolab.com/badge/Visual_Studio_Code-%230082cf?style=for-the-badge&logo=vscode&labelColor=%232f3742)
 ![Static Badge](https://custom-icon-badges.demolab.com/badge/Playwright-%2345ba4b?style=for-the-badge&logo=playwright-badge&labelColor=%232f3742)
 ![Static Badge](https://img.shields.io/badge/Cypress-%2369D3A7?style=for-the-badge&logo=cypress&labelColor=%232f3742)
 ![Static Badge](https://img.shields.io/badge/selenium-%2343B02A?style=for-the-badge&logo=selenium&labelColor=%232f3742)
+
+---
+
+### Experience :
 
 ---
 
