@@ -8,7 +8,7 @@
 As a <b>Software QA Test Engineer</b> with three years of dedicated manual testing experience, I've cultivated a strong understanding of the STLC methodology, effectively managing story and improvement tickets through its various stages. My proficiency extends to API testing using Postman, database validation with MySQL, and meticulous bug reporting via Jira, alongside the creation of comprehensive test cases. Driven by continuous growth. 
 </p>
 
-<p>Currently, as a <b>Software QA Test Engineer</b> at <b>AMGS88</b>, I handle story and improvement tickets while applying the STLC methodology as a core QA process. In my free time, I am <b>Upskilling in Test Automation</b>, focusing on <b>Playwright</b> with <b>TypeScript</b> to boost testing efficiency and coverage, underscoring my dedication to delivering high-quality software through both proven manual methods and innovative automation techniques.</p>
+<p>Currently, as a <b>Software QA Test Engineer</b> at <b>AMGS88</b>, I handle story and improvement tickets while applying the STLC methodology as a core QA process. In my free time, I am enhancing my skills in <b>Test Automation</b>, with a focus on <b>Playwright</b> and <b>TypeScript</b>, to improve testing efficiency and coverage. This reflects my commitment to delivering high-quality software through both established manual practices and innovative automation techniques.</p>
 
 ---
 
