@@ -43,6 +43,9 @@ As a <b>Software QA Test Engineer</b> with three years of dedicated manual testi
 ![Static Badge](https://img.shields.io/badge/Cypress-%2369D3A7?style=for-the-badge&logo=cypress&labelColor=%232f3742)
 ![Static Badge](https://img.shields.io/badge/selenium-%2343B02A?style=for-the-badge&logo=selenium&labelColor=%232f3742)
 ![Static Badge](https://img.shields.io/badge/Docker-%230d4df2?style=for-the-badge&logo=Docker&labelColor=%232f3742)
+![Static Badge](https://img.shields.io/badge/Jenkins-%23e33222?style=for-the-badge&logo=Jenkins&labelColor=%232f3742)
+![Static Badge](https://img.shields.io/badge/GitLab-%23ec940f?style=for-the-badge&logo=gitlab&labelColor=%232f3742)
+
 
 ---
 
