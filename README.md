@@ -42,7 +42,7 @@ As a <b>Software QA Test Engineer</b> with three years of dedicated manual testi
 ![Static Badge](https://custom-icon-badges.demolab.com/badge/Playwright-%2345ba4b?style=for-the-badge&logo=playwright-badge&labelColor=%232f3742)
 ![Static Badge](https://img.shields.io/badge/Cypress-%2369D3A7?style=for-the-badge&logo=cypress&labelColor=%232f3742)
 ![Static Badge](https://img.shields.io/badge/selenium-%2343B02A?style=for-the-badge&logo=selenium&labelColor=%232f3742)
-![Static Badge](https://img.shields.io/badge/Docker-%230d4df2?style=for-the-badge&logo=Docker&labelColor=%23232f3742)
+![Static Badge](https://img.shields.io/badge/Docker-%230d4df2?style=for-the-badge&logo=Docker&labelColor=%232f3742)
 
 ---
 
