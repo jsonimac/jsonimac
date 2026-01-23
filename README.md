@@ -54,7 +54,7 @@ As a <b>Software QA Test Engineer</b> with three years of dedicated manual testi
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Jsonimac2699)
 [![Linkedin Badge](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin-logo-white&logoColor=white)](https://www.linkedin.com/in/keepcodn/)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonimac122699@gmail.com)
-[![Discord Badge](https://img.shields.io/badge/Discord-#5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nU7mPspJ)
+[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nU7mPspJ)
 
 
 ---
