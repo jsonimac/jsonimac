@@ -12,10 +12,10 @@ As a <b>Software QA Test Engineer</b> with three years of dedicated manual testi
 
 ---
 
-- 💼 Currently working as **Software QA Test Engineer** at AMSG88 IT SOLUTIONS OPC.
+- 💼 Currently working as **Software QA Test Engineer** at Goto.health.
 - 🔭 Focusing on Learning Typescript in Free Time.😎
 - 🌱 Trying to become an **Software Development Engineer in Test** ❤
-- 💻 I love programming and hunting bugs 🐞.
+- 💻 I like programming and hunting bugs 🐞.
 - 📰 Reading tech documentation whenever possible.
 - 🥅 2025 Goals: Learn Sofware Automation using Playwright.
 - ⚡ Fun fact: Negative Space Programming is Positive.🤣
